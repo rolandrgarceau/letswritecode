@@ -7,5 +7,6 @@
     "start": "node index.js"
   },
   "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "edited-by": "Rudy Garceau",
   "license": "MIT"
 }
